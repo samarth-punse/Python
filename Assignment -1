@@ -1,6 +1,0 @@
-Problem Statement: Write a Python program that will do:
-Handles invalid input (non-numbers, wrong format).
-Performs basic calculations (addition, subtraction, division, etc.).
-Offers optional hard calculations (exponentiation, modulus, etc.).
-Presents results clearly for both basic and hard calculations (if chosen).
-
