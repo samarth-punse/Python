@@ -1,2 +1,3 @@
 # Python
-Repository for python assignments of college 
+Repository for Python assignments in college.
+Uploading all my college Python work here.
